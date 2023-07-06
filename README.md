@@ -17,9 +17,3 @@ I am Juan Pejerrey, currently working as a Software Engineer at the [RAVN](https
 ![Prisma](https://img.shields.io/badge/Prisma-3982CE?style=for-the-badge&logo=Prisma&logoColor=white)
 ![Git](https://img.shields.io/badge/-Git-black?style=for-the-badge&logo=git)
 ![GitHub](https://img.shields.io/badge/-GitHub-181717?style=for-the-badge&logo=github)
-
-![Github Stats](https://github-readme-stats.vercel.app/api?username=juanmdpc&count_private=true&show_icons=true&include_all_commits=true&theme=onedark)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&langs_count=4&layout=compact&theme=onedark)](https://github.com/anuraghazra/github-readme-stats)
-
-
-![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=juanmdpc.juanmdpc)

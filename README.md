@@ -4,16 +4,3 @@ I am Juan Pejerrey, currently working as a Software Engineer at the [RAVN](https
 
 [![Linkedin Badge](https://img.shields.io/badge/-juanmdpc-blue?style=for-the-badge&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/juan-pejerrey-carrera/)](https://www.linkedin.com/in/juan-pejerrey-carrera/)
 [![Gmail Badge](https://img.shields.io/badge/-juanmdpc@gmail.com-c14438?style=for-the-badge&logo=Gmail&logoColor=white&link=mailto:juanmdpc@gmail.com)](mailto:juanmdpc@gmail.com)
-
-## ⚡ Technologies
-
-![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=for-the-badge&logo=javascript)
-![TypeScript](https://img.shields.io/badge/-TypeScript-007ACC?style=for-the-badge&logo=typescript)
-![Nodejs](https://img.shields.io/badge/-Nodejs-black?style=for-the-badge&logo=Node.js)
-![NestJS](https://img.shields.io/badge/nestjs-%23E0234E.svg?style=for-the-badge&logo=nestjs&logoColor=white)
-![GraphQL](https://img.shields.io/badge/-GraphQL-E10098?style=for-the-badge&logo=graphql)
-![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-336791?style=for-the-badge&logo=postgresql)
-![Jest](https://img.shields.io/badge/-jest-%23C21325?style=for-the-badge&logo=jest&logoColor=white)
-![Prisma](https://img.shields.io/badge/Prisma-3982CE?style=for-the-badge&logo=Prisma&logoColor=white)
-![Git](https://img.shields.io/badge/-Git-black?style=for-the-badge&logo=git)
-![GitHub](https://img.shields.io/badge/-GitHub-181717?style=for-the-badge&logo=github)

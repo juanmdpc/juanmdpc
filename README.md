@@ -1,6 +1,7 @@
-### Hi there 👋
+💼 **Current Role:** Software Engineer at Ravn.
 
-I am Juan Pejerrey, currently working as a Software Engineer at [RAVN](https://www.ravn.co/). I am a Backend Engineer and love writing clean and maintainable code. Find out more about me & feel free to connect with me here:
+🚀  **Interest:** Enthusiast of all things on Node.js, JavaScript and Typescript.
 
-[![Linkedin Badge](https://img.shields.io/badge/-juanmdpc-blue?style=for-the-badge&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/juan-pejerrey-carrera/)](https://www.linkedin.com/in/juan-pejerrey-carrera/)
-[![Gmail Badge](https://img.shields.io/badge/-juanmdpc@gmail.com-c14438?style=for-the-badge&logo=Gmail&logoColor=white&link=mailto:juanmdpc@gmail.com)](mailto:juanmdpc@gmail.com)
+👐 **Collaboration:** Open to contributing to open-source projects.
+
+📢 **Let's Connect:** Feel free to ask me anything! [![Linkedin Badge](https://img.shields.io/badge/-juanmdpc-blue?style=for-the-badge&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/juan-pejerrey-carrera/)](https://www.linkedin.com/in/juan-pejerrey-carrera/) [![Gmail Badge](https://img.shields.io/badge/-juanmdpc@gmail.com-c14438?style=for-the-badge&logo=Gmail&logoColor=white&link=mailto:juanmdpc@gmail.com)](mailto:juanmdpc@gmail.com)
